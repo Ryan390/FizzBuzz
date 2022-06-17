@@ -1,0 +1,11 @@
+/Users/ryanrobinson/RiderProjects/FizzBuzz/Tests/bin/Debug/Tests.dll
+/Users/ryanrobinson/RiderProjects/FizzBuzz/Tests/bin/Debug/Tests.pdb
+/Users/ryanrobinson/RiderProjects/FizzBuzz/Tests/bin/Debug/nunit.framework.dll
+/Users/ryanrobinson/RiderProjects/FizzBuzz/Tests/bin/Debug/nunit.framework.xml
+/Users/ryanrobinson/RiderProjects/FizzBuzz/Tests/obj/Debug/Tests.csproj.AssemblyReference.cache
+/Users/ryanrobinson/RiderProjects/FizzBuzz/Tests/obj/Debug/Tests.csproj.CoreCompileInputs.cache
+/Users/ryanrobinson/RiderProjects/FizzBuzz/Tests/obj/Debug/Tests.csproj.CopyComplete
+/Users/ryanrobinson/RiderProjects/FizzBuzz/Tests/obj/Debug/Tests.dll
+/Users/ryanrobinson/RiderProjects/FizzBuzz/Tests/obj/Debug/Tests.pdb
+/Users/ryanrobinson/RiderProjects/FizzBuzz/Tests/bin/Debug/FizzBuzz.dll
+/Users/ryanrobinson/RiderProjects/FizzBuzz/Tests/bin/Debug/FizzBuzz.pdb

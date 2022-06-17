@@ -1,0 +1,6 @@
+/Users/ryanrobinson/RiderProjects/FizzBuzz/FizzBuzz/bin/Debug/FizzBuzz.dll
+/Users/ryanrobinson/RiderProjects/FizzBuzz/FizzBuzz/bin/Debug/FizzBuzz.pdb
+/Users/ryanrobinson/RiderProjects/FizzBuzz/FizzBuzz/obj/Debug/FizzBuzz.csproj.AssemblyReference.cache
+/Users/ryanrobinson/RiderProjects/FizzBuzz/FizzBuzz/obj/Debug/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/ryanrobinson/RiderProjects/FizzBuzz/FizzBuzz/obj/Debug/FizzBuzz.dll
+/Users/ryanrobinson/RiderProjects/FizzBuzz/FizzBuzz/obj/Debug/FizzBuzz.pdb
